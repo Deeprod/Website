@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.container {
+  position: relative;
+  text-align: left;
+  color: white;
+}
+
+body{
+  margin:0px; 
+  padding:0px;
+  background-color:rgb(135, 11, 223);
+}
+
+@font-face {
+  font-family: myFirstFont;
+  src: url(ZetafontsAristaPro-Fat.otf);
+}
+
+div {
+  font-family: myFirstFont;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+.top-left {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+}
+
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+.bottom-centered {
+  position: absolute;
+  bottom: 0%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.centered {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+  
+a {
+  color: white;
+  text-decoration: none; /* no underline */
+}
+
+</style>
+</head>
+<body>
+
+<div >
+	<table style="width:100%;padding:3vw;margin:0px">
+		  <tr>
+				<td width="50%" style="text-align:center;background-color:rgb(135, 11, 223);"> 
+					<font style="font-size:10vw;color:rgb(255, 255, 255)">
+						<a href="Event.html">EVENT</a>
+					</font>
+				</td>
+				<td width="50%" style="text-align:center;background-color:rgb(135, 11, 223);">
+					<font style="font-size:10vw;color:rgb(255, 255, 255)">
+						<a href="AIA.html">AIA</a>
+					</font>
+				</td>
+		  </tr>
+	</table>
+</div>
+
+<div class="container">
+	<img src="img2.jpg" alt="Snow" style="width:100%;">
+	<div class="top-left" style="font-size:9vw;">
+		<font style="font-size:13vw;color:rgb(220, 220, 220)">
+			LIFE FESTIVAL
+		</font>
+		<br> 12TH DECEMBER 2023 <br> MELBOURNE
+	</div>
+	<div class="centered" style="font-size:6vw;">POWERED BY <br><br><img src="logo.png" alt="" style="width:65%;"></div>
+	<div class="bottom-centered"><img src="ticket.png" alt="" style="width:100%;"></div>
+</div>
+
+</body>
+</html> 
