@@ -94,8 +94,8 @@
 		
 		
 		
-		if($Rank_mov > 0)
-		{
+		//if($Rank_mov > 0)
+		//{
 			echo"
 				<div class='item'>
 					<div style='display         : flex;
@@ -144,7 +144,7 @@
 					</div>
 				</div>
 			";
-		}
+		//}
 		
 		
 		
