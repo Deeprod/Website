@@ -1,0 +1,160 @@
+"ID","Series","J","Year"
+"1","The big bang theory","12T","2007-2019"
+"2","Friends","10T","1994-2004"
+"3","How I met your mother","9T","2005-2014"
+"4","Scrubs","8T","2001-2010"
+"5","Dexter","8T","2006-2013"
+"6","Games of thrones","8T","2011-2019"
+"7","Suits","8A","2011-"
+"8","Malcolm","7T","2000-2006"
+"9","House MD","7A","2004-2012"
+"10","High Stakes Poker","7A","2006-2011"
+"11","The shield","6T","2002-2008"
+"12","Lost","6T","2004-2010"
+"13","Oz","6T","1997-2003"
+"14","Modern Family","6A","2009-2020"
+"15","Brooklyn Nine-Nine","5S","2013-"
+"16","House of Cards","6A","2013-2018"
+"17","CSI","6A","2000-2015"
+"18","Heroes","5T","2006-2010"
+"19","Breaking bad","5T","2008-2013"
+"20","Silicon Valley","4S","2014-2019"
+"21","Luther","5A","2010-2019"
+"22","Prison Break","5A","2005-2017"
+"23","Boston legal","5A","2004-2008"
+"24","The walking dead","5A","2010-"
+"25","24","5A","2001-2010"
+"26","Episodes","5T","2011-2017"
+"27","IT Crowd","4T","2006-2013"
+"28","Unbreakable Kimmy","4T","2015-2019"
+"29","Rick & Morty","5S","2013-"
+"30","The Good Place","4T","2016-2020"
+"31","Six feet under","4A","2001-2005"
+"32","Californication","4A","2007-2014"
+"33","Black Book","3T","2000-2004"
+"34","Veronica Mars","3S","2004-2019"
+"35","Ozark","4T","2017-"
+"36","Dark","3T","2017-2020"
+"37","Vikings","4A","2013-"
+"38","The Expanse","2S","2015-"
+"39","The Office (UK)","2T","2001-2003"
+"40","Joey","2T","2004-2006"
+"41","Westworld","2S","2016-"
+"42","American Crime Story","2S","2016-"
+"43","Better Call Saul","6T","2015-"
+"44","Bojack Horseman","2A","2014-2020"
+"45","Louie","2A","2010-2015"
+"46","The Blacklist","2A","2013-"
+"47","Lie to me","2A","2009-2011"
+"48","Robot Chicken","2A","2005-"
+"49","Plan Coeur","2T","2018-"
+"50","Archer","2A","2009-"
+"51","The Office (US)","1A","2005-2013"
+"52","Mad Men","1A","2007-2015"
+"53","Arrested Development","1A","2003-"
+"54","30 Rock","1A","2006-2013"
+"55","Peaky Blinders","6T","2013-"
+"56","Stranger Things","3A","2016-"
+"57","Naruto","2T","2002-2017"
+"58","Dragon Ball","3A","1986-2018"
+"59","Hunter x Hunter","5A","2011-2014"
+"60","Black Spot","2S","2017-"
+"61","Maniac","1T","2018-2018"
+"62","Unbelievable","1T","2019-2019"
+"63","Unit 42","1S","2017-"
+"64","Living with yourself","1A","2019-"
+"65","The Witcher","3S","2019-"
+"66","The Newsroom","2T","2012-2014"
+"67","11.22.63","1T","2016-2016"
+"68","State of the Union","1T","2019-"
+"69","Locke & Key","1S","2020-"
+"70","Money Heist","4S","2017-"
+"71","After Life","3T","2019-"
+"72","Billions","6A","2016-"
+"73","Sherlock","1A","2010-2017"
+"74","The last dance","1T","2020-2020"
+"75","Vagabond","1A","2019-"
+"76","The Woods","1T","2020-2020"
+"77","Inhuman resources","1T","2020-"
+"82","Snowpiercer","2S",
+"81","Modern Love","1W",
+"83","Narcos","3T","2017-"
+"84","Altered Carbon","1S",
+"85","The lost room","1T",
+"86","Hannibal","3T",
+"87","The night manager","1T",
+"88","Into the night","1W",
+"89","The man in the high castle","1A",
+"90","Emily in Paris ","2A",
+"91","The queen’s gambit","1T",
+"92","Why women kill","1A",
+"93","How to get away with murder","6T",
+"110","Startup","1A",
+"95","Ted Lasso","3A",
+"96","Homeland","1S",
+"97","Your honour","1T",
+"98","Alice in borderland","2T",
+"117","Morning wars","2A",
+"100","The let down","1S",
+"101","Good omens","1A",
+"102","The serpent","1T",
+"103","The wire","1S",
+"104","New Amsterdam ","1W",
+"105","Birdsong","1A",
+"106","The crown","6T",
+"107","Sweet Tooth","1A",
+"109","Lupin","2S",
+"111","The leftovers","3T",
+"112","Chernobyl","1T",
+"113","Squid game","1S",
+"114","Succession","4T",
+"115","Mare of easttown","1T",
+"116","The vault","1T",
+"118","Mythic Quest","1A",
+"119","Veep","1A",
+"120","Most dangerous game","1S",
+"121","The umbrella academy","4T",
+"122","The good fight","5S",
+"123","the girl across the street from the girl in the window","1T",
+"124","The handmaid’s tale","5S",
+"125","H","4T",
+"126","Kaamelott","6T",
+"127","Severance","1S",
+"128","Counterpart","2T",
+"129","Bates Motel","5T",
+"130","True detective","1S",
+"131","Colin from accounts","1S",
+"132","All of us are dead","1A",
+"133","Fauda","1S",
+"134","The last of us","1S",
+"135","The OA","2T",
+"136","The flight attendant","1A",
+"137","Beef","1S",
+"138","Arnold","1T",
+"139","Shrinking","1S",
+"140","Shrinking","1S",
+"141","Silo","1S",
+"142","Dopesick","1T",
+"143","The bear","3S",
+"144","Only murders in the building","3S",
+"145","The Boys","4S",
+"146","Jury Duty","1T",
+"147","The fall of the house of Usher","1T",
+"148","Beckham","1T",
+"149","Bodies","1T",
+"150","Boy swallows universe","1T",
+"151","Yellowjackets","2S",
+"152","The Offer","1T",
+"153","The White Lotus","2S",
+"154","Lessons in chemistry","1T",
+"155","Mr Robot","2S",
+"156","Fallout","1S",
+"157","One day","1T",
+"158","3 body problem","1S",
+"159","The gentlemen","1T",
+"160","Ripley","1T",
+"161","Baby reindeer","1T",
+"162","Eric","1T",
+"163","Will Trent","1S",
+"164","Bloodline","3T",
+"165","Night sky","1T",
